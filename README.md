@@ -1,13 +1,11 @@
 ![Header](https://github.com/ZoeIvanchuk/ZoeIvanchuk/blob/main/assets/git%20photo.png)
 
-## I'm junior Qaulity Assurance
-
-About me
+## I'm JUNIOR QA ENGINER
 
 Languages and Tools
-![SQL]()
+![SQL]( https://img.shields.io/badge/-SQL-216e39?style=for-the-badge&logo=SQL)
 Java
 Phyton
 Postman
 Selenium IDE
-Follow me
+Follow mes
