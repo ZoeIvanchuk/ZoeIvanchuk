@@ -3,7 +3,7 @@
 ## I'm JUNIOR QA ENGINER
 
 Languages and Tools
-![SQL]( https://img.shields.io/badge/-SQL-216e39?style=for-the-badge&logo=SQL)
+![SQL]( https://img.shields.io/badge/-SQL-style=for-the-badge&logo=mySQL)
 Java
 Phyton
 Postman
